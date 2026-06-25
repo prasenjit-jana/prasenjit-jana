@@ -1,8 +1,10 @@
+
+
 <div align="center">
 
 # 👋 Hi, I'm Prasenjit!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;6%2B+Years+of+Experience;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3500&pause=1000&color=01408d&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;6%2B+Years+of+Experience;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </div>
 
 <p align="left">
@@ -11,8 +13,9 @@ Frontend Developer passionate about building scalable, responsive, and high-perf
 
 ---
 
-# 👨‍💻 About Me
-
+# 👨‍💻 About Me 
+<img align="right" alt="Coding" width="380"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 * 💼 Frontend Developer with **6+ years** of professional experience
 * ⚛️ Specialized in **React.js** and modern JavaScript
 * 🚀 Developed **10+ enterprise web applications**
@@ -170,3 +173,7 @@ Hooghly, West Bengal, India
 ---
 
 ⭐ Thanks for stopping by! If you'd like to connect, collaborate, or discuss frontend development, feel free to reach out. I'm always happy to connect with fellow developers and tech enthusiasts.
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=prasenjit-jana&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
