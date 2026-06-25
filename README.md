@@ -55,58 +55,6 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ---
 
-# 🚀 Featured Projects
-
-## 📘 Learning Management System (LMS)
-
-A comprehensive e-learning platform supporting:
-
-* Course Creation & Management
-* SCORM Content
-* Online Assessments
-* Certificate Generation
-* Learner Progress Tracking
-* Reporting Dashboard
-
-**Tech Stack**
-
-React.js • Bootstrap • SCSS • REST API
-
----
-
-## 📊 Investor Awareness Program (IAP)
-
-Enterprise Event Management Platform
-
-### Features
-
-* Multi Portal Architecture
-* OTP Authentication (2FA)
-* QR Attendance
-* Geo Tagging
-* Role Based Access
-* BigBlueButton Integration
-* Dashboard & Reports
-
-**Tech Stack**
-
-React.js • Bootstrap • SCSS • REST API
-
----
-
-## 💼 Other Enterprise Projects
-
-* Portfolio Management System (PMS)
-* Bandhan Genie
-* LMS Stack
-* NPS Prosperity Planner (NPP)
-* BSE IAP
-* AMFI IAP
-* Canara Robeco IAP
-* DSP IAP
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
