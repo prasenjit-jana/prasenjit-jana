@@ -11,7 +11,20 @@
 Frontend Developer passionate about building scalable, responsive, and high-performance web applications using React.js and modern frontend technologies. I enjoy creating reusable UI components, solving complex frontend challenges, and delivering enterprise-grade applications with clean, maintainable code.
 </p>
 
+<p align="center">
+
+<a href="mailto:prasenjitjanamailbox@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prasenjit-jana">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
 ---
+
 
 # 👨‍💻 About Me
 
