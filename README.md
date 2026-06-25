@@ -25,11 +25,11 @@ Frontend Developer passionate about building scalable, responsive, and high-perf
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap,tailwind,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap,tailwind,jquery,redux,webpack)](https://skillicons.dev)
 
 ### Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vite)](https://skillicons.dev)
 
 ### Other Skills
 
@@ -42,7 +42,6 @@ Frontend Developer passionate about building scalable, responsive, and high-perf
 * Keycloak
 * Swagger
 * Responsive Design
-* SCSS
 * Micro Frontend
 * Performance Optimization
 * Accessibility
