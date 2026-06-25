@@ -1,16 +1,170 @@
-## Hi there 👋
+# 👋 Hi, I'm Prasenjit!
 
-<!--
-**prasenjit-jana/prasenjit-jana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React.js Developer
 
-Here are some ideas to get you started:
+<p align="left">
+Frontend Developer passionate about building scalable, responsive, and high-performance web applications using React.js and modern frontend technologies. I enjoy creating reusable UI components, solving complex frontend challenges, and delivering enterprise-grade applications with clean, maintainable code.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+* 💼 Frontend Developer with **6+ years** of professional experience
+* ⚛️ Specialized in **React.js** and modern JavaScript
+* 🚀 Developed **10+ enterprise web applications**
+* 🧩 Built **50+ reusable React components**
+* 🔗 Integrated **200+ REST APIs**
+* 📚 Experienced in **Learning Management Systems (LMS)** and **Investor Awareness Portals (IAP)**
+* 🎯 Passionate about Performance, Accessibility, and Responsive Design
+* 🤝 Enjoy mentoring developers and collaborating in Agile teams
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap,tailwind,jquery)](https://skillicons.dev)
+
+### Tools & Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)](https://skillicons.dev)
+
+### Other Skills
+
+* React Hooks
+* Context API
+* React Router
+* React Query
+* REST API Integration
+* JWT Authentication
+* Keycloak
+* Swagger
+* Responsive Design
+* SCSS
+* Micro Frontend
+* Performance Optimization
+* Accessibility
+* Agile & Scrum
+
+---
+
+# 🚀 Featured Projects
+
+## 📘 Learning Management System (LMS)
+
+A comprehensive e-learning platform supporting:
+
+* Course Creation & Management
+* SCORM Content
+* Online Assessments
+* Certificate Generation
+* Learner Progress Tracking
+* Reporting Dashboard
+
+**Tech Stack**
+
+React.js • Bootstrap • SCSS • REST API
+
+---
+
+## 📊 Investor Awareness Program (IAP)
+
+Enterprise Event Management Platform
+
+### Features
+
+* Multi Portal Architecture
+* OTP Authentication (2FA)
+* QR Attendance
+* Geo Tagging
+* Role Based Access
+* BigBlueButton Integration
+* Dashboard & Reports
+
+**Tech Stack**
+
+React.js • Bootstrap • SCSS • REST API
+
+---
+
+## 💼 Other Enterprise Projects
+
+* Portfolio Management System (PMS)
+* Bandhan Genie
+* LMS Stack
+* NPS Prosperity Planner (NPP)
+* BSE IAP
+* AMFI IAP
+* Canara Robeco IAP
+* DSP IAP
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prasenjit-jana&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjit-jana&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasenjit-jana&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasenjit-jana&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced React Patterns
+* Micro Frontend Architecture
+* Frontend Performance Optimization
+* Accessibility (WCAG)
+* Modern UI/UX Best Practices
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+[prasenjitjanamailbox@gmail.com](mailto:prasenjitjanamailbox@gmail.com)
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/prasenjit-jana
+
+📍 **Location**
+
+Hooghly, West Bengal, India
+
+---
+
+### 💡 Quote
+
+> *"Building scalable, accessible, and high-performance web applications with React.js while continuously learning and sharing knowledge."*
+
+---
+
+⭐ Thanks for stopping by! If you'd like to connect, collaborate, or discuss frontend development, feel free to reach out. I'm always happy to connect with fellow developers and tech enthusiasts.
