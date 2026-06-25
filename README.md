@@ -1,6 +1,9 @@
+<div align="center">
+
 # 👋 Hi, I'm Prasenjit!
 
-### Frontend Developer | React.js Developer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;6%2B+Years+of+Experience;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+</div>
 
 <p align="left">
 Frontend Developer passionate about building scalable, responsive, and high-performance web applications using React.js and modern frontend technologies. I enjoy creating reusable UI components, solving complex frontend challenges, and delivering enterprise-grade applications with clean, maintainable code.
