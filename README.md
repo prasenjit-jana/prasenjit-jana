@@ -13,17 +13,18 @@ Frontend Developer passionate about building scalable, responsive, and high-perf
 
 ---
 
-# 👨‍💻 About Me 
+# 👨‍💻 About Me
+
 <img align="right" alt="Coding" width="380"
 src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-* 💼 Frontend Developer with **6+ years** of professional experience
-* ⚛️ Specialized in **React.js** and modern JavaScript
-* 🚀 Developed **10+ enterprise web applications**
-* 🧩 Built **50+ reusable React components**
-* 🔗 Integrated **200+ REST APIs**
-* 📚 Experienced in **Learning Management Systems (LMS)** and **Investor Awareness Portals (IAP)**
-* 🎯 Passionate about Performance, Accessibility, and Responsive Design
-* 🤝 Enjoy mentoring developers and collaborating in Agile teams
+
+💼 Frontend Developer with **6+ years** of professional experience<br>
+⚛️ Specialized in **React.js** and modern JavaScript<br>
+🚀 Developed **10+ enterprise web applications**<br>
+🧩 Built **50+ reusable React components**<br>
+🔗 Integrated **200+ REST APIs**<br>
+🎯 Passionate about Performance, Accessibility, and Responsive Design<br>
+🤝 Enjoy mentoring developers and collaborating in Agile teams
 
 ---
 
