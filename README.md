@@ -71,7 +71,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=prasenjit-jana&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -83,7 +83,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<p align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasenjit-jana&theme=tokyonight&hide_border=true"/>
 
