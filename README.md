@@ -57,6 +57,32 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vite)](https://skillicons.dev)
 
+## 🤖 AI Tools
+
+<p align="left">
+
+<a href="https://chat.openai.com/" target="_blank">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+</a>
+
+<a href="https://github.com/features/copilot" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+</a>
+
+<a href="https://gemini.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Gemini-8E75D8?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+</a>
+
+<a href="https://notebooklm.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM"/>
+</a>
+
+<a href="https://claude.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+</a>
+
+</p>
+
 ### Other Skills
 
 * React Hooks
