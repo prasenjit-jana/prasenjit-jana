@@ -105,9 +105,9 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <p align="left">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prasenjit-jana&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prasenjit-jana&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjit-jana&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjit-jana&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
